@@ -10,7 +10,7 @@ This template is preconfigured for AR foundation 5.0.3 which includes the XR Sim
 
 ```
  - Git client
- - Unity Editor version 2021.3.16f1 (LTS) or newer
+ - Unity Editor version 2021.3.17f1 (LTS) or newer
 ```
 
 ### Installing
